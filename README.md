@@ -2,11 +2,9 @@
 
 Destiny is a choose your own adventure game like Bandersnatch.
 
-I created this application following the official recommended course for Flutter:
+I created this application following the officially recommended course by Flutter found on [The App Brewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart) website.
 
-https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
-
-The Destiny application is found on Section 11.
+The Destiny application can be found in the 11th section of the course.
 
 ## Finished result
 
